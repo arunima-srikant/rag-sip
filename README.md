@@ -63,6 +63,6 @@ Through this project, I:
 
 ---
 
-## 📌 Keywords
+## Keywords
 
 `RAG` `LLM` `LlamaIndex` `Ollama` `Embeddings` `Document Retrieval` `AI Applications`
